@@ -1,0 +1,15 @@
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.csproj.ResolveComReference.cache
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.Form1.resources
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.Properties.Resources.resources
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.csproj.GenerateResource.cache
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.exe.manifest
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.application
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.csproj.CopyComplete
+C:\Users\userpc\Desktop\크롤링\naverCrawling.exe.config
+C:\Users\userpc\Desktop\크롤링\naverCrawling.exe.manifest
+C:\Users\userpc\Desktop\크롤링\naverCrawling.application
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.exe
+C:\Users\userpc\Desktop\크롤링\naverCrawling\naverCrawling\obj\Release\naverCrawling.pdb
+C:\Users\userpc\Desktop\크롤링\naverCrawling.exe
+C:\Users\userpc\Desktop\크롤링\naverCrawling.pdb
