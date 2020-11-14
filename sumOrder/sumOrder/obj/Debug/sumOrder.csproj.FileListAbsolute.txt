@@ -1,0 +1,13 @@
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\bin\Debug\sumOrder.exe.config
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\bin\Debug\sumOrder.exe
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\bin\Debug\sumOrder.pdb
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.csprojAssemblyReference.cache
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.csproj.ResolveComReference.cache
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.Form1.resources
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.Properties.Resources.resources
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.csproj.GenerateResource.cache
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.exe
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.pdb
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\bin\Debug\MetroFramework.dll
+C:\Users\userpc\Desktop\발주서통합\sumOrder\sumOrder\obj\Debug\sumOrder.csproj.CopyComplete

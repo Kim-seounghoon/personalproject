@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumOrder", "sumOrder\sumOrder.csproj", "{60E1D64C-E6CC-4AC9-BB3C-56CFE4FDB3A7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sumOrderSetup", "sumOrderSetup\sumOrderSetup.vdproj", "{DC67F23A-3498-4AE7-996E-D0A4458E9AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60E1D64C-E6CC-4AC9-BB3C-56CFE4FDB3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E1D64C-E6CC-4AC9-BB3C-56CFE4FDB3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E1D64C-E6CC-4AC9-BB3C-56CFE4FDB3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E1D64C-E6CC-4AC9-BB3C-56CFE4FDB3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC67F23A-3498-4AE7-996E-D0A4458E9AC7}.Debug|Any CPU.ActiveCfg = Debug
+		{DC67F23A-3498-4AE7-996E-D0A4458E9AC7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2AE61C-1B05-4B4D-ABC7-3DB8CD0A9EE7}
+	EndGlobalSection
+EndGlobal
